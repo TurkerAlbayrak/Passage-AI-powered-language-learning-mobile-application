@@ -7,7 +7,42 @@
 **An AI-ready language-learning mobile app that turns reading into a complete vocabulary loop:
 read → understand → save with context → review with spaced repetition.**
 
-Built with **React Native (Expo)** · Powered by the **CEFR Texts API** · Dictionary by **Free Dictionary API**
+Built with **React Native (Expo)** · Powered by **CEFR Texts API** · Dictionary by **Free Dictionary API**
+
+---
+
+## 📱 App Preview
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/bdfdfe91-91f8-483b-889c-865ac6539849" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9e3f811c-33b6-49df-9a54-9f4cd699af66" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f5c58ae7-b116-42b4-b345-17d9e6995629" width="250"/></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/7925095d-f4eb-4028-8cc3-b0198d900c23" width="250"/></td>
+    <td><img width="250" alt="WhatsApp Image 2026-06-10 at 13 34 53" src="https://github.com/user-attachments/assets/47a5e596-2741-4745-84f0-f8ec020efaf7" />
+</td>
+    <td><img src="https://github.com/user-attachments/assets/ef8510bd-9c3d-4db6-990c-c8703079d230" width="250"/></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d7daa2b5-9f91-49d1-8f9c-f2a73846ecc4" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/80cd781c-6911-4466-b3c2-104f845d3908" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/8423c858-dced-4446-9504-a01c532c3b0d" width="250"/></td>
+  </tr>
+  
+  <tr>
+    <td><img width="250" alt="WhatsApp Image 2026-06-10 at 13 34 54 (4)" src="https://github.com/user-attachments/assets/74b7c351-4bc4-44fa-a572-304d14d5af70" />
+</td>
+    <td><img width="250" alt="WhatsApp Image 2026-06-10 at 13 34 54 (5)" src="https://github.com/user-attachments/assets/8ea692b1-e6be-4f07-845b-2d62236e2a91" />
+</td>
+    <td><img width="250" alt="WhatsApp Image 2026-06-10 at 13 34 55" src="https://github.com/user-attachments/assets/49affc6d-4a59-4649-ae65-6dca5564ce7e" />
+</td>
+  </tr>
+
+</table>
 
 </div>
 
